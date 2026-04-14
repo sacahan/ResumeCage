@@ -42,3 +42,6 @@ coverage/
 .coverage
 htmlcov/
 .nyc_output/
+
+# Skill-specific
+*/skills/
