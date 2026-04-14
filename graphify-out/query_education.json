@@ -1,0 +1,42 @@
+{
+  "nodes": [],
+  "file_matches": [
+    {
+      "file": "raw/履歷匯總.md",
+      "matches": [
+        {
+          "line_no": 34,
+          "text": "# Education Tags"
+        },
+        {
+          "line_no": 35,
+          "text": "education_level: masters_degree"
+        },
+        {
+          "line_no": 36,
+          "text": "education_field: information_management"
+        },
+        {
+          "line_no": 50,
+          "text": "sections: [personal_info, professional_summary, education, skills, work_experience, projects, achievements, languages, career_goals]"
+        },
+        {
+          "line_no": 74,
+          "text": "## 學歷背景"
+        },
+        {
+          "line_no": 76,
+          "text": "### 正式學歷"
+        },
+        {
+          "line_no": 78,
+          "text": "- **中原大學 資訊管理研究所**（碩士）｜2002/09-2004/06"
+        },
+        {
+          "line_no": 79,
+          "text": "- **輔仁大學 財經法律學系**（學士）｜1997/09-2002/06"
+        }
+      ]
+    }
+  ]
+}

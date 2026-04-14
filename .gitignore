@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-*
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+*.egg-info/
+target/
+
+# Environment & secrets
+.env
+.env.*
+*.local.toml
+*.pem
+*.key
+secrets/
+credentials/
+
+# Logs & temp
+*.log
+logs/
+tmp/
+temp/
+cache/
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+.nyc_output/
